@@ -1,0 +1,13 @@
+.content {
+    background-color: #ebed85;
+    width: auto;
+    height: auto;
+    padding-left: 600px;
+}
+
+.body {
+    text-align: justify;
+    margin-left: 35%;
+    height: auto;
+    width: 40%;
+}

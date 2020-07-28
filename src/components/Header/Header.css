@@ -1,0 +1,19 @@
+.title {
+    color: #494d99;
+    font-size: 3vw;
+    vertical-align: top;
+    display: inline-block;
+    margin: 20px;
+}
+
+.header {
+    background-color: white;
+    height: 150px;
+}
+
+.logo {
+    display: inline-block;
+    margin-right: 100px;
+    width: 20%;
+    height: auto;
+}
