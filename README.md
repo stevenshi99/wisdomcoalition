@@ -1,3 +1,12 @@
+Created by Steven Shi for the Wisdom Coaltiion for Kim and Nancy.
+
+##TODO
+Modify buttons under Buttons.js to redirect them to actual pages when those get created
+Add more content when Kim and Nancy have more to put on the website.
+
+Stuff under this line is the default README from create React Apps
+---------------------------------------------------------------------------------------------------
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
