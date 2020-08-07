@@ -1,8 +1,8 @@
+//buttons for Filling in the Missing Peace
 import React from 'react';
 import './Buttons.css';
 
 function Buttons() { 
-    var i;
     const buttons = ['Welcome', 'Self-Compassion', 'Self-Forgiveness', 'Self-Love', 'Meditations', 'Exercises', 'Congratulations']; 
     return (
         <div class = "back">

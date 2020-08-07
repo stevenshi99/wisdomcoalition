@@ -8,7 +8,7 @@ function Content() {
             Welcome
         </div>
         <div>
-            <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/z2icFYEwm30" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+            <iframe title="Wisdom Coalition Video" width="560" height="315" src="https://www.youtube-nocookie.com/embed/z2icFYEwm30" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
         </div>
         <br></br>
         <div class="body">
